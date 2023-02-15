@@ -1,8 +1,10 @@
-# Hi there 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KenGx.repoName) [![GitHub followers](https://img.shields.io/github/followers/KenGx.svg?style=social&label=Follow)](https://github.com/KenGx?tab=followers)<br/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KenGx.repoName">
+  <br/>
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+</p>
 
-<!--
-**KenGx/KenGx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KenGx&theme=radical&hide_border=true&border_radius=5.7&date_format=%5BY%20%5DM%20j">
+</p>
 
-Credits: [KenGx](https://github.com/KenGx)
